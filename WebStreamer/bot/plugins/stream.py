@@ -30,9 +30,9 @@ async def media_receive_handler(_, m: Message):
     file_name = ''
     if file:
         file_name = file.file_name
-   
+        log_msg = await m.forward(chat_id=Var.BIN_CHANNEL)
 
-    stream_link = Var.URL  + '/' +quote_plus(file_name) if file_name else ''
+    stream_link = Var.URL  + str(log_msg.message_id) + '/' +quote_plus(file_name) if file_name else ''
     response= requests.get(BASE_URL+stream_link)  
     final_url =STREAMSB_URL+response.json().get("result").get("filecode")+".html" 
     await m.reply_text(
