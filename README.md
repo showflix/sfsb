@@ -1,16 +1,10 @@
-<h1 align="center">Telegram File Stream Bot</h3>
+<h1 align="center">Telegram File StreamSB Bot</h3>
 <p align="center">
-  <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
-    <img src="https://socialify.git.ci/EverythingSuckz/TG-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
-  </a>
+ 
   <p align="center">
-    A Telegram bot to stream files to web
+    A Telegram bot to upload to streamSB files
     <br />
-    <a href="https://telegram.dog/TG_FileStreamBot"><strong>Demo Bot »</strong></a>
-    <br />
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Request Feature</a>
+ 
   </p>
 </p>
 
@@ -44,16 +38,7 @@
   </ol>
 </details>
 
-## About This Bot
 
-<p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
-    </a>
-</p>
-<p align='center'>
-    This bot will give you stream links for Telegram files without the need of waiting till the download completes
-</p>
 
 ### Original Repository
 
