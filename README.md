@@ -1,8 +1,8 @@
-<h1 align="center">Telegram File StreamSB Bot</h3>
+<h1 align="center">Telegram File SfSB Bot</h3>
 <p align="center">
  
   <p align="center">
-    A Telegram bot to upload to streamSB files
+    A Telegram bot to upload to sfSB files
     <br />
  
   </p>
